@@ -1,7 +1,7 @@
-
+oh yeah
 
 # This is my super cool paper
-written by me
+written by me and John
 ^^X
 ^X
 X
